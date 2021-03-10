@@ -18,4 +18,4 @@ https://github.com/griffjordan/Lab5Program.git
 Once you have copied the repository, make your changes and submit a pull request to "griffjordan" on github.com  
   
   
-***To better understand how you should use our program, please refer to our license and Code Of Conduct.  
+***To better understand how you should use our program, please refer to our license and Code Of Conduct.***  
