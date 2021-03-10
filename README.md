@@ -1,5 +1,5 @@
 # Lab5Program MADLIB
-This is an insanely cool program which asks the user for input and creates an insanely cool\ story based off of the user's input!
+This is an insanely cool program which asks the user for input and creates an insanely cool story based off of the user's input!
 
 USAGE....
 In order to use this program, you need to have Python installed on your computer. Head here to download: https://www.python.org/downloads/  
