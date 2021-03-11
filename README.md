@@ -19,3 +19,5 @@ Once you have copied the repository, make your changes and submit a pull request
   
   
 ***To better understand how you should use our program, please refer to our license and Code Of Conduct.***  
+
+Our license was selected to indicate this software is free and in the public domain. In short, we are not responsible for anything done in association with this software and we remain independent from any distribution. Our Code of Conduct was selected to encourage collaboration on the project and explain the correlating terms of use. This Code of Conduct indicates participation from the creaters to mediate and oversee the project.
